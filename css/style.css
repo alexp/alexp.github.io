@@ -1,0 +1,21 @@
+body {
+  background-image: url('../img/paper.png');
+  text-shadow: 0px 2px 3px #FFF;
+}
+
+h1 {
+  font-family: 'Averia Gruesa Libre', cursive;
+  font-size: 64px;
+}
+
+small {
+  font-family: 'Ubuntu Mono', sans-serif;
+}
+
+.page-header {
+  border-bottom: 1px solid #2BE01B;
+}
+
+.description {
+  margin-top: 40px;
+}
