@@ -5,8 +5,9 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
     <link href='http://fonts.googleapis.com/css?family=Averia+Gruesa+Libre|Ubuntu+Mono' rel='stylesheet' type='text/css'>
+    <script src="js/jquery-1.7.2.min.js"></script>
+    <script src="js/jail.0.9.5.min.js"></script>
     <script type="text/javascript">
-
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-9940526-3']);
       _gaq.push(['_trackPageview']);
@@ -49,7 +50,7 @@
           <h2><a href="http://hermanowa-wola.pl/">Hermanowa Wola</a></h2>
           <p>
             <a href="http://hermanowa-wola.pl/" class="thumbnail">
-              <img src="img/Hermanowa.png" width="500px;"/>
+              <img data-href="img/Hermanowa.png" width="500px;"/>
             </a>
           </p>
         </div>
@@ -92,7 +93,7 @@
           <h2><a href="http://dealframe.pl/">Dealframe</a></h2>
           <p>
             <a class="thumbnail" href="http://dealframe.pl/">
-              <img src="img/dealframe.png" width="500px;"/>
+              <img data-href="img/dealframe.png" width="500px;"/>
             </a>
           </p>
         </div>
@@ -113,7 +114,7 @@
           <h2><a href="http://techgen.eu/">Techgen</a></h2>
           <p>
             <a class="thumbnail" href="http://techgen.eu/">
-              <img src="img/techgen_v5.png" width="500px;"/>
+              <img data-href="img/techgen_v5.png" width="500px;"/>
             </a>
           </p>
         </div>
@@ -136,7 +137,7 @@
         <div class="span7">
           <h2><a href="http://dl.dropbox.com/u/979017/photoshop/labelbird/labelbird2.png">Labelbird</a></h2>
           <a class="thumbnail" href="http://dl.dropbox.com/u/979017/photoshop/labelbird/labelbird2.png">
-            <img src="img/labelbird2.png" width="500px;"/>
+            <img data-href="img/labelbird2.png" width="500px;"/>
           </a>
         </div>
         <div class="span5">
@@ -160,25 +161,28 @@
         </div>
         <div class="span3">
         <a class="thumbnail" href="http://dl.dropbox.com/u/979017/portfolio/namaste.png">
-          <img src="img/namaste.png" width="200px;"/>
+          <img data-href="img/namaste.png" width="200px;"/>
         </a>
         </div>
         <div class="span3">
         <a class="thumbnail" href="http://dl.dropbox.com/u/979017/warszafka/maska-small.png">
-          <img src="img/maska-small.png" width="200px"/>
+          <img data-href="img/maska-small.png" width="200px"/>
         </a>
         </div>
         <div class="span3">
         <a class="thumbnail" href="http://dl.dropbox.com/u/979017/photoshop/naga_sztuka.jpg">
-          <img src="img/naga_sztuka.jpg" width="200px" />
+          <img data-href="img/naga_sztuka.jpg" width="200px" />
         </a>
         </div>
         <div class="span3">
         <a class="thumbnail" href="img/rimshot_killaz.jpg">
-          <img src="http://dl.dropbox.com/u/979017/photoshop/rimshot_killaz.jpg" width="200px" />
+          <img data-href="img/rimshot_killaz.small.jpg" width="200px" />
         </a>
         </div>
       </div>
     </div>
+    <script type="text/javascript">
+      $('img').jail();
+    </script>
   </body>
 </html>
