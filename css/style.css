@@ -21,3 +21,7 @@ small {
   font-family: 'Ubuntu Mono', sans-serif;
   font-size: 16px;
 }
+
+.row {
+  margin-top: 40px;
+}
