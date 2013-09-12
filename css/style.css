@@ -25,3 +25,7 @@ small {
 .row {
   margin-top: 40px;
 }
+
+.post.content {
+  text-align: justify;
+}
