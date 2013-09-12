@@ -1,16 +1,21 @@
 ---
   layout: post
-  title: How I thought I wanted to become a "digital nomad", when really I didn't.
+  title: How I thought, I wanted to become a digital nomad.
 ---
+
+## How I thought I wanted to become a "digital nomad" when really I didn't.
+
 Around three months ago, the company I worked 
-for got suddenly closed. The reasons for this, 
+for got suddenly closed. 
+
+The reasons for this, 
 are quite irrelevant to this article, 
 but in short, the investor backed out 
 and the ongoing development of a product 
 I was mainly involved in, had been suspended. 
 
 I didn't plan for this scenario. The timing was off, 
-I just came back from vacation and had a semi long-term 
+I just came back from vacation and had had a semi long-term 
 plans based on a stable situation with my current day job.
 
 But it had happened and, practically, overnight I had 
@@ -22,29 +27,37 @@ I'd like to "escape the nine to five", travel the world with my laptop,
 make money doing freelancing gigs, experience life to the fullest,
 and yet maintain the technical skills without becoming rusty.
 
+
 And suddenly - here I was, without a lot of attachments, no mortgage, 
 kids, with _some_ savings on my account and no immediate plans for 
 the nearest future.
 
+
 Having said that, the decision was pretty simple - this was a great opportunity
 to do some traveling, that I've always wanted to do. 
+
 
 Choosing the location was also quite obvious and 
 for a number of reasons I finally bought a ticket to Bangkok.
 
+
 Southeast Asia FTW!
+
 
 I've already done some traveling in Europe and wanted 
 to see some other parts of the world. 
+
 
 I've spent a year in States and would love to come back, 
 but I wanted to depart as soon as possible and American 
 visa policy is both expensive and still quite hard to get for Polish citizens.
 
+
 Australia is just too damn expensive for longterm travel on budget,
 especially when, like me, you're into scuba diving, kite surfing
 and numerous other outdoor activities that are generally quite pricey,
 even in "cheap" countries. 
+
 
 So, Southeast Asia was an obvious choice. It's the mecca of 
 budget travelers. There are countless blogs owned by people 
@@ -52,9 +65,11 @@ who work online and travel this region and, I guess, that
 it's just a thing that one has to experience at least once in
 his or hers lifetime.
 
+
 Fortunately, I had some minor clients that I worked for after hours 
 when I still had a job, so while much, much smaller, some income while 
 on the road was pretty much secured.
+
 
 After around one month of preparations (vaccines, gear, minor planning), 
 me and my girlfriend packed our bags (42 liter Northface Duffels - highly recommended, 
@@ -62,10 +77,12 @@ although not the best choice if walking long distances) and was off to Bangkok
 with a general idea to travel around Thailand, Vietnam, Laos and Cambodia 
 (which, by the way, we later corrected to Thailand, Vietnam, Cambodia and Indonesia, but this is different story).
 
+
 I've been on the road for two months now, working online for the clients
 back in Poland. The gigs mostly include maintaining and modifying
 existing websites, but I've lately managed to secure one larger Rails project
 that needs to be done from scratch.
+
 
 So far, this has been a very rewarding, educating (although not really in the technical sense)
 experience, but there are some major drawbacks to this kind of lifestyle, 
@@ -74,9 +91,10 @@ that I'd like to share.
 They mainly involve two recurring, significant problems that I found I was facing:
 
 1) Limited types of projects, you are able to tackle while on the road;
+
 2) Illusion of freedom of choice concerning your location;
 
-h2. Only small, simple projects
+## Only small, simple projects
 
 This is a huge disadvantage for me. Initially I was OK with doing 
 some minor gigs that would just keep me afloat, but the reality 
@@ -133,7 +151,7 @@ on the job in an organization that everyday tackles problems way more sophistica
 than you'd be able to tackle on your own. 
 Whether it's a small startup or a large corporation is irrelevant here.
 
-h2. The location independence illusion
+## The location independence illusion
 
 Now, I absolutely think that working remotely _is_ possible and it's a great 
 way for (a) developers to stay "location independent" and (b) companies to cut costs a bit, making use of available technologies.
@@ -162,7 +180,12 @@ go traveling for instance, for two months every year or so (details irrelevant).
 3) keep working on that "passive income" wordpress site and/or travel blog that makes you tons of cash and travel till you puke ;)
 
 
-SIDENOTES:
+### SIDENOTES:
 
 * I personally dislike the 'digital nomad' term. There is something inherently 'douchy' about this title.
 * If interested, please follow my travel adventures at http://airseasummit.com/
+
+
+
+
+
