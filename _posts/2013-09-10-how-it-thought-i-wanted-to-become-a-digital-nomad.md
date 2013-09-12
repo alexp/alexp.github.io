@@ -1,8 +1,7 @@
 ---
   layout: post
-  title: How I thought I wanted to become a 'digital nomad', when really I didn't.
+  title: How I thought I wanted to become a "digital nomad", when really I didn't.
 ---
-
 Around three months ago, the company I worked 
 for got suddenly closed. The reasons for this, 
 are quite irrelevant to this article, 
