@@ -3,7 +3,7 @@
   title: How I thought, I wanted to become a digital nomad.
 ---
 
-## How I thought I wanted to become a "digital nomad" when really I didn't.
+## ..when really I didn't.
 
 Around three months ago, the company I worked 
 for got suddenly closed. 
@@ -183,7 +183,7 @@ go traveling for instance, for two months every year or so (details irrelevant).
 ### SIDENOTES:
 
 * I personally dislike the 'digital nomad' term. There is something inherently 'douchy' about this title.
-* If interested, please follow my travel adventures at http://airseasummit.com/
+* If interested, please follow my travel adventures at <a href="http://airseasummit.com/">airseasummit.com</a>
 <br />
 <br />
 <br />
