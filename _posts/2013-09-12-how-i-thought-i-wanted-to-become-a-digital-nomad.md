@@ -184,8 +184,8 @@ go traveling for instance, for two months every year or so (details irrelevant).
 
 * I personally dislike the 'digital nomad' term. There is something inherently 'douchy' about this title.
 * If interested, please follow my travel adventures at http://airseasummit.com/
-
-
-
-
-
+<br />
+<br />
+<br />
+<br />
+<br />
