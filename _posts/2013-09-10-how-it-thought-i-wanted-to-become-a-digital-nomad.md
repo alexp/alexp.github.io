@@ -162,3 +162,9 @@ Live somewhere you like, and when you feel like change, do some research and go 
 go traveling for instance, for two months every year or so (details irrelevant).
 
 3) keep working on that "passive income" wordpress site and/or travel blog that makes you tons of cash and travel till you puke ;)
+
+
+SIDENOTES:
+
+* I personally dislike the 'digital nomad' term. There is something inherently 'douchy' about this title.
+* If interested, please follow my travel adventures at http://airseasummit.com/
