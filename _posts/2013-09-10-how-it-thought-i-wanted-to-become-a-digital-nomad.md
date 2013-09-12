@@ -1,8 +1,7 @@
-How I thought I wanted to become a 'digital nomad', when really I didn't.
-
-OR 
-
-The downsides of working as a so-called "digital nomad".
+---
+  layout: post
+  title: How I thought I wanted to become a 'digital nomad', when really I didn't.
+---
 
 Around three months ago, the company I worked 
 for got suddenly closed. The reasons for this, 
