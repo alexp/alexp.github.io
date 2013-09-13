@@ -162,7 +162,7 @@ in the world, in order to get some substantial amount of work done, you actually
 a comfortable spot, good internet connection, peaceful environment and ideally 
 some facilities around like a gym/yoga school park or a bar - whatever you're into. 
 
-During my travels I found out that creative, meaningful work, requires some routine. 
+Even though it might be obvious, during my travels I found out the hard way that creative, meaningful work, requires some routine. 
 Changing your location once a week, working from benches, hammocks, cafes, bars and hostel floors is a cool way to fund 
 your vacation, but it certainly doesn't help you when tackling hard programming problems. 
 
