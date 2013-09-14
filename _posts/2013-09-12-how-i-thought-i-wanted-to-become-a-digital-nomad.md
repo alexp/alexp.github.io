@@ -3,7 +3,7 @@
   title: How I thought, I wanted to become a digital nomad.
 ---
 
-## ..when really I didn't.
+<i>..when really I didn't.</i>
 
 Around three months ago, the company I worked 
 for got suddenly closed. 
