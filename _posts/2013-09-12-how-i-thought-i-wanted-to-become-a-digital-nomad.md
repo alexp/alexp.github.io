@@ -73,7 +73,7 @@ on the road was pretty much secured.
 
 After around one month of preparations (vaccines, gear, minor planning), 
 me and my girlfriend packed our bags (42 liter Northface Duffels - highly recommended, 
-although not the best choice if walking long distances) and was off to Bangkok
+although not the best choice if walking long distances) and were off to Bangkok
 with a general idea to travel around Thailand, Vietnam, Laos and Cambodia 
 (which, by the way, we later corrected to Thailand, Vietnam, Cambodia and Indonesia, but this is different story).
 
