@@ -1,6 +1,6 @@
 ---
   layout: post
-  title: How I thought, I wanted to become a digital nomad.
+  title: How I thought I wanted to become a digital nomad.
 ---
 
 <i>..when really I didn't.</i>
