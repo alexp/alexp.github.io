@@ -5,6 +5,14 @@
 
 <i>..when really I didn't.</i>
 
+<div style="margin: 40px 0; padding: 20px; border: 1px solid #ccc; background-color: #fafafa; font-style: italic; font-size: 12px;">
+  UPDATE 2013-10-03:<br />
+  --<br />
+  An informative and insightful discussion on the topic arose on Hacker News and can be found <a href="https://news.ycombinator.com/item?id=6388820">here</a>.
+  <br />
+  Currently I'm working on a follow-up post. Please stop by in about a week. 
+</div>
+
 Around three months ago, the company I worked 
 for got suddenly closed. 
 
