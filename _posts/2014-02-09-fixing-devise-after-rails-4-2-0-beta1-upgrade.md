@@ -32,4 +32,4 @@ gem 'devise', :git => 'https://github.com/plataformatec/devise.git', :branch => 
 
 Please note, that for production use, you should probabily wait for new Devise release, where this bug will be merged.
 
-More info: https://github.com/plataformatec/devise/pull/3153
+More info at: <a href="https://github.com/plataformatec/devise/pull/3153">https://github.com/plataformatec/devise/pull/3153</a>
