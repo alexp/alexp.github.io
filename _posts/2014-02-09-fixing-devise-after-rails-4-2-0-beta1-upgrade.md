@@ -9,9 +9,9 @@ If you have just upgraded your Devise based app to Rails 4.2.0-beta1 version, yo
 
 To fix this now, you need to change your Gemfile to fetch branch _lm-rails-4-2_ of Devise directly from github, like so:
 
-<code>
+<pre>
 gem 'devise', :git => 'https://github.com/plataformatec/devise.git', :branch => 'lm-rails-4-2'
-</code>
+</pre>
 
 Please note, that for production use, you should probabily wait for new Devise release, where this bug will be merged.
 
