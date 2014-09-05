@@ -22,29 +22,32 @@ The error I was getting was:
 
 So this does the job:
 <pre>
-gem update --system 2.2.2
+  gem update --system 2.2.2
 </pre>
 
-When developing in Rails, a good strategy to keep your setup in order is to use RVM to manage different versions of Ruby.
-
-You can learn more about RVM <a href="http://rvm.io/">here</a>.
-
+When developing in Rails, a good strategy to keep your setup in order is to use RVM to manage different versions of Ruby. 
+You can learn more about RVM <a href="http://rvm.io/">here</a>. 
 Keep in mind though, that there are <a href="http://stackoverflow.com/questions/9659236/what-are-the-alternatives-to-ruby-version-manager-rvm">alternatives</a>
 
 Anyway, to install current stable Ruby version:
 
 Ugrade to the most stable RVM version:
 
-% rvm get stable
+<pre>
+  % rvm get stable
+</pre>
 
 Then run:
 
-% rvm install 2.1.2
+<pre>
+  % rvm install 2.1.2
+</pre>
 
 After successful ruby installation you can check out your ruby versions by running:
 <pre>
-  % rvm list                                                                                                                                                                                                                                                                           
-
+  $rvm list                                                                                                                                                                                                                                                                           
+</pre>
+<pre>
   rvm rubies
 
   ruby-1.9.3-p125 [ x86_64 ]
