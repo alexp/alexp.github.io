@@ -45,7 +45,7 @@ Then run:
 
 After successful ruby installation you can check out your ruby versions by running:
 <pre>
-  $rvm list                                                                                                                                                                                                                                                                           
+  % rvm list
 </pre>
 <pre>
   rvm rubies
@@ -74,7 +74,7 @@ To install Rails prerelease:
 Confirm your new rails version:
 
 <pre>
-  % rails -v                                                                                                                                                                                                                                                                          
+  % rails -v
   Rails 4.2.0.beta1
 </pre>
 
