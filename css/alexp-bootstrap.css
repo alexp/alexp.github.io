@@ -5321,7 +5321,6 @@ li {
   font-size: 18px;
   line-height: 26px;
   color: #333332;
-  text-align: justify;
 }
 .content #logo {
   margin: auto;
@@ -5350,4 +5349,7 @@ li {
   .row-fluid .span9 {
     width: 100%;
   }
+}
+pre {
+  font-size: 0.6em;
 }
