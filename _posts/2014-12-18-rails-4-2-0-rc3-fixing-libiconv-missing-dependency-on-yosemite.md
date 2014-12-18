@@ -1,6 +1,6 @@
 ---
   layout: post
-  title: [Rails 4.2.0.rc3] - Fixing libiconv missing dependency on OS X Yosemite (10.10.1)
+  title: Rails 4.2.0.rc3 - Fixing libiconv missing dependency on OS X Yosemite (10.10.1)
 ---
 
 OK, so today I tried to install the newest <a href=“http://weblog.rubyonrails.org/2014/12/13/Rails-4-2-0-rc3-has-been-released/”>release candidate</a> of Rails - the <strong>4.2.0.rc3</strong> and *again*, I got the missing libiconv dependency error while installing nokogiri, version 1.6.5.
