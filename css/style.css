@@ -1,15 +1,60 @@
 body {
-  background-image: url('/img/paper.png');
-  text-shadow: 0px 2px 3px #FFF;
+  /*background-image: url('/img/paper.png');
+  text-shadow: 0px 2px 3px #FFF;*/
+  /*font-family: 'Georgia', serif;*/
+  font-family: Verdana, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  color: #5C5C5C;
+  background-color: #fefefe;
 }
 
-h1 {
-  font-family: 'Averia Gruesa Libre', cursive;
-  font-size: 64px;
+hr {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+section {
+    padding-top: 40px;
+}
+
+p {
+    font-family: Verdana, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #333;
+}
+
+h1, h2 {
+  font-family: 'Merriweather', serif;
+  /*font-family: 'Monaco', 'Courier', 'Courier New', monospace;*/
+  font-size: 32px;
+  font-weight: 700;
+}
+
+h2 {
+    font-size: 22px;
+    margin: 30px 0;
 }
 
 small {
-  font-family: 'Ubuntu Mono', sans-serif;
+    margin: 0;
+    line-height: auto;
+}
+
+a {
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+pre {
+    text-align: left;
+    font-size: 12px;
 }
 
 .page-header {
@@ -22,6 +67,59 @@ small {
   font-size: 16px;
 }
 
-.row {
-  margin-top: 40px;
+.meta {
+    color: #909090;
+}
+
+.article-header img { margin: 0 auto 40px auto; }
+.article-header { width: 80%; margin: auto; }
+p.headnote {
+    margin: 40px 0 0 0;
+}
+
+.amp {
+    font-family: Helvetica, serif;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+article h1 {
+    margin: 40px auto;
+}
+
+.comments-row {
+    margin-top: 60px;
+}
+
+article.projects {
+    width: 80%;
+    margin: 0 auto;
+}
+
+article.projects ul {
+    padding: 0;
+    margin: 30px 0;
+    list-style-type: none;
+}
+
+ul.tech-used li {
+    display: inline-block;
+    padding: 4px 8px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    font-size: 12px;
+}
+
+.footer {
+    padding: 20px 0px 80px 0px;
+    color: #909090;
+}
+
+.footer a {
+    display: inline-block;
+    margin-bottom: 10px;
+    color: #A6B8C7;
 }
