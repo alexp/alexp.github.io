@@ -1,9 +1,9 @@
-This blog uses <a href="https://jekyllrb.com/docs/installation/">jekyll</a>.<br/>
+This blog uses <a href="https://jekyllrb.com/docs/installation/">jekyll</a>.
 
-Assuming you have RubyGems installed on your machine, Jekyll installation is straightforward:<br/>
+Assuming you have RubyGems installed on your machine, Jekyll installation is straightforward:
 
-`gem install jekyll`.<br/>
+`gem install jekyll`.
 
-After that, you can run the server:<br/>
+After that, you can run the server:
 
 `jekyll serve` or `jekyll serve --drafts` to work with drafted posts.
