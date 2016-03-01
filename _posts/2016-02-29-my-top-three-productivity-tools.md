@@ -1,6 +1,7 @@
 ---
   layout: post
   title: My three most powerful productivity tools
+  alias: /2016/02/29/my-number-one-productivity-tool.html
 ---
 
 Routines, habits and tools of the trade really do make the difference.
