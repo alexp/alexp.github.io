@@ -13,4 +13,5 @@ I committed to yoga about 5 years ago now and it might easily be the single, bes
 
 SomaFM and vim are so dependent on each other in my routine that they might as well be one tool. We've all got our own little habits to get us in the zone, and for me it's opening the <a href="https://itunes.apple.com/us/app/somafm-radio-player/id406262816?mt=8">SomaFm app</a>, hitting play on <strong>Space Station Soma</strong> channel and opening vim. I've been doing this so long now, that it's like a religion for me at this point. This is how I start any programming task and I can't really imagine it going away anytime soon.
 
+
 Some time ago I read <a href="https://www.goodreads.com/book/show/254799.The_Creative_Habit">The Creative Habit: Learn It and Use It for Life</a> by Thwyla Tharp, that I feel deserves a mention here. It's an exceptional book on habits, being in the zone, the creative process and much, much more. I highly recommend it for anyone who wants to further learn about the way we work, mastery, passion and creativity. I learned a lot about my process, programming and how I view my work from this one.
