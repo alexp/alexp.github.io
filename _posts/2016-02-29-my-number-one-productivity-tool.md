@@ -7,7 +7,7 @@ Routines, habits and tools of the trade really do make the difference.
 
 They are the ones that make the biggest impact on the way we work, how we work and how we feel about our work.
 
-For me, for a long time now, the most impactful things around my process have been <a href="https://en.wikipedia.org/wiki/Ashtanga_vinyasa_yoga">yoga</a>, vim and <a href="">SomaFm</a>. These three exact things.
+For me, for a long time now, the most impactful things around my process have been <a href="https://en.wikipedia.org/wiki/Ashtanga_vinyasa_yoga">yoga</a>, vim and <a href="http://somafm.com/">SomaFm</a>. These three exact things.
 
 I committed to yoga about 5 years ago now and it might easily be the single, best decision I have made in my entire life. Maybe apart from sticking to programming as a career path despite multiple occasions and reasons to quit. The benefits of movement and exercise should be absolutely obvious by now, especially in our field, having so heavily sedentary lifestyles, but for me yoga is a special kind of exercise. It's meditation in movement. It synchronizes your breath and makes you get out of your head. "In with the good and out with the bad" as my teacher often said. It's an ultimate productivity tool. Teaches you about your limitations, makes you humble, rids you of the ego and it's hard. And I strongly believe that we should be doing hard things away from work as well.
 
