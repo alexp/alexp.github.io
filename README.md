@@ -1,9 +1,38 @@
-This blog uses <a href="https://jekyllrb.com/docs/installation/">jekyll</a>.
+# alexp.github.io
 
-Assuming you have RubyGems installed on your machine, Jekyll installation is straightforward:
+Personal portfolio and blog of Alex Pszczolkowski, hosted at [alexp.pl](http://alexp.pl) via GitHub Pages.
 
-`gem install jekyll`.
+## About
 
-After that, you can run the server:
+This site showcases:
+- A blog covering software engineering topics (Ruby on Rails, DevOps, productivity, and more)
+- A portfolio of software projects
+- Professional background and links
 
-`jekyll serve` or `jekyll serve --drafts` to work with drafted posts.
+## Tech Stack
+
+- **Static site generator**: [Jekyll](https://jekyllrb.com/)
+- **Hosting**: GitHub Pages (custom domain: alexp.pl)
+- **Frontend**: Bootstrap 3, jQuery, custom CSS
+
+## Running Locally
+
+Assuming you have RubyGems installed, install Jekyll:
+
+```
+gem install jekyll
+```
+
+Then start the local server:
+
+```
+jekyll serve
+```
+
+To preview draft posts:
+
+```
+jekyll serve --drafts
+```
+
+The site will be available at `http://localhost:4000`.
